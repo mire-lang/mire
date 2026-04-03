@@ -1,0 +1,2 @@
+# mire
+mire language documentation
